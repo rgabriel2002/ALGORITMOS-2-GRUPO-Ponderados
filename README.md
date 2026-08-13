@@ -34,6 +34,8 @@ De Programación 1 ya tengo algunos conocimientos de Python, así que espero que
 Mi expectativa es poder adquirir una buena base para las materias que siguen y, sobre todo, sentirme cada vez más cómodo programando. 
 
 
+
+
 ## Bitácora
 
 [Ver bitácora](bitacora.md)
