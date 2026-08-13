@@ -36,14 +36,14 @@ Frontend con React y Next.js, mobile con React Native y Android, y bases de dato
 
 ### Federico Gatti 1224732
 
-<img src= "imgfede.jpg" width="150">
+<img src= "imgfede.jpeg" width="150">
 
 Hola soy Federico, estudiante de la carrera en UADE. Estudio Licenciatura en Gestión de Tecnología de la Información.
 Con Programación II espero afianzar las bases de Java y de la programación orientada a objetos, mejorar mis habilidades para resolver problemas y escribir código prolijo, y sumar herramientas que después me sirvan en materias más avanzadas. Mi objetivo a futuro es recibirme y poder ejercer lo que estudio, que es lo que realmente me gusta.
 
 ### Santiago Arra 1215402
 
-<img src= "imgsanti.jpg" width="150">
+<img src= "imgsanti.jpeg" width="150">
 
 Hola, soy Santiago Arra, tengo 19 años y estudio Ingeniería Informática.
 Actualmente estoy cursando en correlativo Programación Orientada a Objetos, así que varios de los temas de esta materia se relacionan bastante con lo que estoy viendo ahí. De Programación 1 tengo una base de Python, pero ahora quiero empezar a meterme más con Java, entender bien cómo funciona y poder manejarme mejor con clases, objetos y todo lo relacionado a POO.
