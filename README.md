@@ -10,7 +10,7 @@ Trabajo grupal - Programacion 2 - 2026
 | [Lorenzo Resnik] | [loloresnik]           |
 | [Federico Gatti] | [FedeGatt1]            |
 | [Marco Teufel]   | [mfteufel]             |
-| [Gabriel Rojas]  | [@rgabriel2002]        |
+| [Gabriel Rojas]  | [rgabriel2002]         |
 
 
 ## Presentación integrantes
