@@ -24,6 +24,8 @@ Mi expectativa es poder adquirir una buena base para las materias que siguen y, 
 
 ### Marco Teufel 1132577
 
+![Foto Marco](Captura%20desde%202026-08-13%2015-55-01.png)
+
 Estudio desarrollo de software y me gusta aprender construyendo.
 Vengo de trabajar en el sitio web de Serbus (HTML, CSS, JS y SEO), y desde ahí me metí de lleno en la programación.
 Con qué trabajo:
