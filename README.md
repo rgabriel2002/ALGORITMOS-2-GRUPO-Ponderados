@@ -7,7 +7,7 @@ Trabajo grupal - Programacion 2 - 2026
 | Nombre | Usuario de GitHub |
 |--------|-------------------|
 | [Santiago Arra] | [arrasantt] |
-| [Nombre 2] | [@usuario2] |
+| [lorenzo resnik] | [loloresnik] |
 | [Nombre 3] | [@usuario3] |
 | [Nombre 4] | [@usuario3] |
 | [Nombre 5] | [@usuario3] |
