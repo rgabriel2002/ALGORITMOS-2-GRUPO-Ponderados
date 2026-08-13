@@ -6,9 +6,11 @@ Trabajo grupal - Programacion 2 - 2026
 
 | Nombre | Usuario de GitHub |
 |--------|-------------------|
-| [Nombre 1] | [@usuario1] |
+| [Santiago Arra] | [arrasantt] |
 | [Nombre 2] | [@usuario2] |
 | [Nombre 3] | [@usuario3] |
+| [Nombre 4] | [@usuario3] |
+| [Nombre 5] | [@usuario3] |
 
 
 
