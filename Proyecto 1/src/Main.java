@@ -7,5 +7,9 @@ public class Main {
 
         producto1.mostrarDatos();
         producto2.mostrarDatos();
+
+        producto1.ingresarStock(10);
+        producto1.ingresarStock(5);
+        System.out.println("Stock actual de Martillo: " + producto1.consultarStock());
     }
 }

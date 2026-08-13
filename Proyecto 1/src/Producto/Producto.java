@@ -13,6 +13,14 @@ public class Producto {
         this.cantidad = 0;
     }
 
+    public int consultarStock() {
+        return cantidad;
+    }
+
+    public void ingresarStock(int cantidad) {
+        this.cantidad += cantidad;
+    }
+
     public void mostrarDatos() {
         System.out.println("Código: " + codigo);
         System.out.println("Nombre: " + nombre);
