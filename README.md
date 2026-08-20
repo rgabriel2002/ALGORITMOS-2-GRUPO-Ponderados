@@ -57,4 +57,9 @@ Mi objetivo principal para este cuatrimestre es afianzar el razonamiento lógico
 
 ## Bitácora
 
-[Ver bitácora](bitacora.md)
+### Jueves 13/08/2026 — Marco Teufel
+- Ejercicio 1: creación de la clase `Producto` (código, nombre, precio, cantidad) con constructor y método `mostrarDatos()`.
+- Ejercicio 2: se agregaron los métodos `consultarStock()` e `ingresarStock(cantidad)` a la clase `Producto`, y se probaron desde `Main.java` ingresando stock dos veces.
+
+### Martes 18/08/2026 — Marco Teufel
+- Ejercicio integrador (Cuenta Bancaria) — Partes A, B y C: se creó la clase `CuentaBancaria` con atributos del titular, número de cuenta, tipo de cuenta, saldo, tasa de interés mensual y estado activa/inactiva. Se implementaron los métodos `consignar`, `retirar`, `consultarSaldo`, `aplicarInteres`, `compararSaldo` y `transferir` (reutilizando `retirar`). Se probó todo desde `MainCuentaBancaria.java`.
