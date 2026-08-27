@@ -37,12 +37,22 @@ public class CuentaBancaria {
             System.out.println("No se puede consignar: la cuenta está inactiva.");
             return;
         }
+
+        if (valor<=0){
+            System.out.println("el valor debe ser mayor a cero");
+            return;
+        }
         saldo += valor;
     }
 
     public boolean retirar(double valor) {
         if (!activa) {
             System.out.println("No se puede retirar: la cuenta está inactiva.");
+            return false;
+        }
+
+        if (valor<=0) { 
+             System.out.println("El valor debe ser mayor a cero");
             return false;
         }
         if (valor > saldo) {
@@ -70,6 +80,16 @@ public class CuentaBancaria {
     }
 
     public boolean transferir(CuentaBancaria destino, double valor) {
+        if(destino == null){
+            System.out.println("la cuenta destino no existe");
+            return false;
+        }
+        if (!destino.activa){
+            System.out.println("la cuenta destino esta inactiva");
+            return false;
+            
+        }
+        
         if (retirar(valor)) {
             destino.consignar(valor);
             return true;
