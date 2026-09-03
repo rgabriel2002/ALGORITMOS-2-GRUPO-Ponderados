@@ -67,3 +67,7 @@ Mi objetivo principal para este cuatrimestre es afianzar el razonamiento lógico
 ### Jueves 20/08/2026 — Santiago Arra
 * **Actividad 1: “El Contrato del Millón” — Pila:** se implementó una pila estática en Java mediante la clase `Pila`, utilizando un arreglo de enteros y una variable `tope` para controlar la última posición ocupada. Se implementaron los métodos `Apilar`, `Desapilar`, `Tope` y `PilaVacia`, respetando el comportamiento LIFO de la estructura. También se controlaron los casos de pila llena y pila vacía. Desde la clase `Main` se probaron las operaciones apilando los valores `13`, `22` y `37`, consultando el tope, desapilando un elemento y verificando si la pila quedaba vacía o con elementos.
 
+
+### Jueves 03/09/2026 - Gabriel Rojas
+Guia de ejercicios - TDA Pila, Cola y Cola con Prioridad
+
