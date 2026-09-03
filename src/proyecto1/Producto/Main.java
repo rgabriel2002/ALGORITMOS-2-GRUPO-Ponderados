@@ -1,3 +1,5 @@
+package proyecto1.Producto;
+
 import Producto.Producto;
 
 public class Main {
